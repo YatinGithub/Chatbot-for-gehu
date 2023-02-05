@@ -1,0 +1,90 @@
+[
+    {
+      "response_type": "greeting",
+      "user_input": ["hello", "hi", "hey"],
+      "bot_response": "Hey there!",
+      "required_words": []
+    },
+    {
+      "response_type": "question",
+      "user_input": ["cse","me","ece","eee"],
+      "bot_response": "Kindly visit the website for information about specific course. \n Website: https://www.gehu.ac.in/content/gehu/en.html ",
+      "required_words": []
+    },
+    {
+      "response_type": "question",
+      "user_input": ["What", "all", "courses","are","available","here"],
+      "bot_response": "Many undergraduate and postgraduate courses are availabale here like Btech, Bsc, Bcom, Mtech, HM etc.\n For Under Graduate Courses visit: https://www.gehu.ac.in/content/gehu/en/admission-aid/dehradun/under-graduate.html \n For Post Graduate Courses visit: https://www.gehu.ac.in/content/gehu/en/admission-aid/dehradun/post-graduate.html ",
+      "required_words": ["courses"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["information", "about", "btech","course"],
+      "bot_response": "Bachelor of Technology(BTech) is a professional undergraduate engineering degree programme awarded to candidates after they complete four years of study in the field.\n GEHU offers Btech in many branches across various specialization.\n For more information, visit: https://www.gehu.ac.in/content/gehu/en/admission-aid/dehradun/under-graduate.html ",
+      "required_words": ["btech","information"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["information", "about", "btech","branches"],
+      "bot_response": "GEHU offers Btech in many branches like: \n 1) Computer Science and Engineering \n 2) Civil Engineering\n 3) Biotechnology\n 4) Electronics and Communication Engineering\n 5) Electrical Engineering\n 6) Mechanical Engineering\n 7) Petroleum Engineering and Earth Sciences\n 8) Allied Sciences",
+      "required_words": ["btech","branches"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["specializations", "offered"],
+      "bot_response": "Specializations offered in Btech are: \n 1) AI & ML \n 2) Cloud Computing \n 3) Cyber Security \n 4) Blockchain \n 5) Information Security & AI \n 6) AI & Robot Building \n 7) Deep Learning & AI",
+      "required_words": ["specializations", "btech"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["fee","structure", "of","btech"],
+      "bot_response": "Depending upon varios branches, specializations and scholarships each course has different fee structure. \n You will find the fee structure of respective Btech branches here: https://www.gehu.ac.in/content/gehu/en/admission-aid/dehradun/under-graduate.html ",
+      "required_words": ["fee","structure", "btech"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["btech", "subjects","syllabus","curriculum"],
+      "bot_response": "There are variety of subjects in Btech from beginner level to Core level. \n Example: DSA, DAA, OS, DBMS, JAVA etc. \n For complete information about subjects visit: https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.gehu.ac.in/content/dam/gehu/pdf/course/ug/soe/curriculum/btech%2520cse%2520curriculum.pdf&ved=2ahUKEwiXj8Sgpfr4AhWx-jgGHVIIBLkQFnoECA4QAQ&usg=AOvVaw17Gh80EoNGMntdcPdl3M26 ",
+      "required_words": ["btech", "subjects"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["information", "about", "bsc","course"],
+      "bot_response": "Bachelor of Science (Bsc)  is a bachelor undergraduate degree programme awarded to candidates after they complete three years of study in the field.\n For more information, visit:  https://www.gehu.ac.in/content/gehu/en/academics/computer-application/dehradun/courses-offered.html ",
+      "required_words": ["bsc","information"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["fee","structure", "of","bsc"],
+      "bot_response": "You will find the fee structure of respective semester of Bsc here: https://www.gehu.ac.in/content/dam/gehu/pdf/course/ug/ca/fee/bsc-it-fee-structure.pdf",
+      "required_words": ["fee","structure", "bsc"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["bsc","year" ,"subjects"],
+      "bot_response": "For Bsc Subjects visit: https://www.geu.ac.in/content/dam/geu/pdf/course/ug/ca/curriculum/B.Sc.IT-Curriculum.pdf",
+      "required_words": ["bsc","subjects"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["information", "about", "bca","course"],
+      "bot_response": "Bachelor of Computer Application(BCA)  is a bachelor undergraduate degree programme awarded to candidates after they complete three years of study in the field.\n For more information, visit:  https://www.gehu.ac.in/content/gehu/en/academics/computer-application/dehradun/courses-offered.html ",
+      "required_words": ["bca","information"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["fee","structure", "of","bca"],
+      "bot_response": "You will find the fee structure of respective Semester of BCA here: https://www.gehu.ac.in/content/dam/gehu/pdf/course/ug/ca/fee/bca-fee-structure.pdf",
+      "required_words": ["fee","structure", "bca"]
+    },
+    {
+      "response_type": "question",
+      "user_input": ["bca","year" ,"subjects"],
+      "bot_response": "For BCA Subjects visit : https://www.geu.ac.in/content/dam/geu/pdf/course/ug/ca/curriculum/BCA-Curriculum.pdf",
+      "required_words": ["bca","subjects"]
+    }
+    
+    
+    
+    
+]
